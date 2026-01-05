@@ -37,12 +37,6 @@
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> 
         <img src="https://img.shields.io/badge/ERD Cloud-EEEEEE?style=for-the-badge&logo=ERDCloud&logoColor=white">
     </p></br>
-    <h1> 🛠 ETC Tools 🛠</h1>
-    <p>
-        <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-    </p></br>
-    <img src="https://github-readme-stats.vercel.app/api?username=ch4570&anuraghazra&show_icons=true&theme=tokyonight"></br></br></br>
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ch4570"></br></br>
 </div>
 
